@@ -120,6 +120,9 @@ Kindly remember to edit with your own unique bucket name.
 
 - Go to `properties` under `static website hosting`  Copy the URL and test on browser.
 
+![properties](https://user-images.githubusercontent.com/113374279/229375237-ec3c42b5-97d3-4daf-946b-c067df3a9cb7.png)
+
+
 ![url](https://user-images.githubusercontent.com/113374279/229353698-c90d7a88-c865-4218-9f24-69d5b71fa0d1.png)
 
 ![website](https://user-images.githubusercontent.com/113374279/229353743-0289c798-fe85-4d2b-a25b-1053f78b5814.png)
