@@ -63,11 +63,24 @@ We were asked to set up a static website using S3
 
 ![create-ehcbucket](https://user-images.githubusercontent.com/113374279/229352235-f8566ae1-3781-42cf-ae6b-1b3b0f04ec9b.png)
 
-- Click into the created bucket
-
 ![created bucket-objects](https://user-images.githubusercontent.com/113374279/229352338-38c4db11-d809-4b51-ba7b-1c4a8078facd.png)
 
-- Go to [website](http://tooplate.com/) for free html templates.
+- Click into the created bucket
+
+- Click on properties
+ 
+ ![properties](https://user-images.githubusercontent.com/113374279/229374329-21a455c6-ef3a-4a4b-abb5-9cd9bdcbbdbe.png)
+
+
+![edit-staticwebsite](https://user-images.githubusercontent.com/113374279/229374292-69253071-27ed-40a6-87f3-6db94fd0f07f.png)
+
+- write your file name `index.html` and the error page you want (this is optional) `error.html`
+
+- `Save Changes`
+
+![save-changes](https://user-images.githubusercontent.com/113374279/229374513-a5b3e86e-39ae-4213-89ce-e34e13ac5e40.png)
+ 
+- Go to [tooplate.com](http://tooplate.com/) for free html templates.
 
 - Upload files and folders
 
@@ -98,6 +111,8 @@ We were asked to set up a static website using S3
 }
 
 ```
+- Click on `save changes`
+
 Kindly remember to edit with your own unique bucket name.
 
 - Go to `properties` under `static website hosting`  Copy the URL and test on browser.
