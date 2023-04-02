@@ -100,9 +100,15 @@ We were asked to set up a static website using S3
 ```
 Kindly remember to edit with your own unique bucket name.
 
-- Go to `properties` under `static website`  Copy the URL and test on browser.
+- Go to `properties` under `static website hosting`  Copy the URL and test on browser.
 
-![url](https://user-images.githubusercontent.com/113374279/229353024-a9292fbc-911f-4f23-b249-71e5be25886d.png)
+![url](https://user-images.githubusercontent.com/113374279/229353698-c90d7a88-c865-4218-9f24-69d5b71fa0d1.png)
+
+![website](https://user-images.githubusercontent.com/113374279/229353743-0289c798-fe85-4d2b-a25b-1053f78b5814.png)
+
+
+
+
 
 
 
