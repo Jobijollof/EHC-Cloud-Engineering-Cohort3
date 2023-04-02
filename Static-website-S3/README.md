@@ -76,6 +76,9 @@ We were asked to set up a static website using S3
 
 - write your file name `index.html` and the error page you want (this is optional) `error.html`
 
+![index](https://user-images.githubusercontent.com/113374279/229375034-a1672a38-43e0-4c01-a68c-dc7764c79554.png)
+
+
 - `Save Changes`
 
 ![save-changes](https://user-images.githubusercontent.com/113374279/229374513-a5b3e86e-39ae-4213-89ce-e34e13ac5e40.png)
