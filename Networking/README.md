@@ -5,6 +5,7 @@
 ![Assignment](./images/assignment.png)
 
 ### Task 1
+
 - Create a Vpc on AWS
 
 - create 6 subnets 3 private 3 public three availability zones
@@ -39,7 +40,11 @@ This did not work for my overall configuration. so i created another vpc and cli
 
 ![vpc](./images/vpc-created.png)
 
-### Task 2:
+### Task 2a:
+
+[Refrence-1](https://cloudiofy.com/how-to-connect-ec2-instance-in-a-private-subnet/)
+
+[Reference-2](https://youtu.be/hO036v4NvQI)
 
 - Create Linux instances in  the private subnets.
 
@@ -73,8 +78,6 @@ Launch EC2 instance
 - Security group
 ![security](./images/security-groupsprivate.png)
 
-
-
 - Launch instance
 
 ![launch](./images/launch-instance6.png)
@@ -83,16 +86,114 @@ Tried to connect to the instance and got this error.(I had to launch a fresh ins
 
 ![error](./images/cannot-connect.png)
 
-2. Create another webserver in the public subnet.
+### Task 2b:
+
+Create another webserver in the public subnet.
 
 Follow same instructions as that of the private server but this time choose public subnets and security groups inbound rule should look like this.
 ![security](./images/security-groups.png)
 
-- Connect to the Public server.
+- Connect to the Public server in this public server we are going to connect to the private subnet server.
 
 ![connect](./images/connect1.png)
 
 ![connect](./images/connect2.png)
+
+
+
+### Task 3:
+Create an instance in the public subnet with different operating system
+- Linux
+- Windows
+- Mac Os
+
+### Task3a:
+Linux- Instance (I am going to launch and also set up website)
+
+Launch  EC2 in the public subnet/Vpc
+![launch](./images/linux-webserver1.png)
+
+![linux](./images/linux-webserver2.png)
+
+![linux](./images/linux-webserver3.png)
+
+![linux](./images/linux-webserver4.png)
+
+- Allow HTTP and HTTPS in inbound rule to connect to server
+
+![linux](./images/linux-webserver5.png)
+
+- Connect to the instance
+
+```
+ssh -i "my-key1.pem" ec2-user@ec2-54-91-59-170.compute-1.amazonaws.com
+
+```
+
+![linux](./images/sudo-su.png)
+
+### Installing the Web Server:
+
+- Elevate privileges
+
+```
+sudo su
+
+```
+- Update all of the packages on the instance
+
+```
+yum update -y
+
+```
+- Install Apache server
+
+```
+yum install httpd -y
+
+```
+- Start the webserver
+
+```
+service httpd start
+
+```
+
+- Check if the server is working (public ipv4 address)
+
+![works](./images/apache-webserver.png)
+
+### Add a static HTML file to be served
+
+Add own custom web page.
+By default, the apache web server will display the index.html file found in /var/www/html directory in the root path of the website.
+In this section you will create an index.html file to be served.
+Navigate to the directory mentioned above
+
+```
+cd /var/www/html
+
+```
+### Create an index.html file in this directory
+
+```
+nano index.html
+
+```
+
+- Add any html content to the file
+
+```
+<html><body>My webserver is running!!!😮</body></html>
+
+```
+![linux](./images/webserver-running2.png)
+
+### Task 3b:
+
+- Windows Os
+
+Execution:
 
 
 
