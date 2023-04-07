@@ -196,6 +196,47 @@ nano index.html
 Execution:
 
 
+- Click on Launch Instance
+
+![launch](./images/microsoft-1.png)
+
+![launch](./images/microsoft-2.png)
+
+![launch](./images/microsoft-3.png)
+
+![launch](./images/microsoft-4.png)
+
+![launch](./images/microsoft-5.png)
+
+![launch](./images/microsoft-6.png)
+
+![lauch](./images/microsoft-7.png)
+
+- Connect to WIndows server
+
+![connect](./images/microsoft-connect1.png)
+
+![connect](./images/microsoft-connect2.png)
+
+- Click on decrypt key. Upload the key pair you used to create the instance in my case my-key1
+
+![connect](./images/microsoft-connect3.png)
+
+![connect](./images/microsoft-connect35.png)
+
+![connect](./images/microsoft-connect356.png)
+
+![connect](./images/microsoft-connect4.png)
+
+![connect](./images/microsoft-connect5.png)
+
+![connect](./images/microsoft-connect6.png)
+
+
+
+
+
+
 
 
 
