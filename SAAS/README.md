@@ -6,7 +6,9 @@
 
 [week 3]()
 
-Week 4 ![Timetable](./images/Timetable.png)
+### Week 4 
+
+![Timetable](./images/Timetable.png)
 
 # Software as a Service (SAAS)
 
