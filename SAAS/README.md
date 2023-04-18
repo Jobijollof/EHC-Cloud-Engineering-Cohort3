@@ -1,8 +1,8 @@
 [Week 1](https://jobina.hashnode.dev/technical-bootcamp-30)
 
-[week 2](https://github.com/Jobijollof/EHC-Cloud-Engineering-Cohort3/tree/main/Static-website-S3)
+[week 2 project1](https://github.com/Jobijollof/EHC-Cloud-Engineering-Cohort3/tree/main/Static-website-S3)
 
-[week 2](https://github.com/Jobijollof/EHC-Cloud-Engineering-Cohort3/tree/main/Networking)
+[week 2 project2](https://github.com/Jobijollof/EHC-Cloud-Engineering-Cohort3/tree/main/Networking)
 
 [week 3]()
 
