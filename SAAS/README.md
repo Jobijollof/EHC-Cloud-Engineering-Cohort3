@@ -6,9 +6,13 @@
 
 [week 3]()
 
-### Week 4 
+### Week 4
 
 ![Timetable](./images/Timetable.png)
+● Introduction to SaaS and its benefits
+● Overview of SaaS providers and their offerings 
+● Managing and customizing SaaS applications
+● Hands-on exercise: Configuring a SaaS application and managing its user acces
 
 # Software as a Service (SAAS)
 
@@ -17,7 +21,7 @@ In this cloud computing model, software applications are hosted by third party v
 
 ### SAAS Providers
 
-SaaS as acloud computing model, is such that the software is hosted on the cloud and can be  easily accessible by users from anywhere, at any time, and on any device as long as there is internet connection.  What this does is that it terminates the requirement for users to install and maintain software on their own computers, as all the maintenance and updates are handled by the service provider.
+SaaS as a cloud computing model, is such that the software is hosted on the cloud and can be  easily accessible by users from anywhere, at any time, and on any device as long as there is internet connection.  What this does is that it terminates the requirement for users to install and maintain software on their own computers, as all the maintenance and updates are handled by the service provider.
 
 There are many SaaS providers in the market today, offering a wide range of software applications to businesses and individuals. Here are some examples of popular SaaS providers:
 
@@ -59,6 +63,13 @@ There are many SaaS providers in the market today, offering a wide range of soft
 
 Overall, SaaS offers many benefits that make it an attractive option for businesses looking to streamline their IT operations and reduce costs. By outsourcing software development and maintenance to a third-party provider, businesses can focus on their core operations and achieve greater efficiency and productivity.
 
+### Managing and customizing SaaS applications:
+While SaaS applications are hosted and maintained by the provider, businesses still have some control 
+over how they use and customize the software. Here are some ways that businesses can manage and customize their SaaS applications:
+
+
+
+
 ### Salesforece
 
 Salesforce is an example of software as a service (SaaS) that provides customer relationship management (CRM) software.
@@ -74,14 +85,6 @@ As a SaaS product, Salesforce is accessed through the internet and customers pay
 Salesforce offers different types of accounts based on the needs of the user. Here are some of the common types of accounts that you can open on Salesforce:
 
 Personal account: This is a free account that allows individuals to use Salesforce for personal purposes or for learning purposes. It provides basic functionality, but is not intended for business use.
-
-Developer account: This is a free account that allows developers to build and test applications on the Salesforce platform. It provides access to all of the platform's features and tools, and is designed specifically for app development and testing.
-
-Professional account: This is a paid account that provides access to the core features of Salesforce, such as sales and customer service management, marketing automation, and analytics. It is designed for small to medium-sized businesses.
-
-Enterprise account: This is a paid account that provides additional features and customization options beyond what is offered in the Professional account. It is designed for larger businesses with more complex needs.
-
-Unlimited account: This is the highest level of paid account and provides access to all of the features and customization options that Salesforce has to offer. It is designed for large enterprises with complex needs and high volumes of data.
 
 So, depending on your needs, you can choose the type of account that works best for you.
 
@@ -106,8 +109,6 @@ So, depending on your needs, you can choose the type of account that works best 
 ![salesforce](./images/salesforce6.png)
 
 ![salesforce](./images/salesforce7.png)
-
-
 
 
 
