@@ -107,7 +107,7 @@ So, depending on your needs, you can choose the type of account that works best 
 
 ![salesforce](./images/salesforce7.png)
 
-cant wait
+
 
 
 
