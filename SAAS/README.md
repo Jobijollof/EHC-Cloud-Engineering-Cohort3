@@ -4,7 +4,7 @@
 
 [week 2 project2](https://github.com/Jobijollof/EHC-Cloud-Engineering-Cohort3/tree/main/Networking)
 
-[week 3]()
+[week 3](https://jobina.hashnode.dev/platform-as-a-service)
 
 ### Week 4
 
@@ -14,14 +14,31 @@
 ● Managing and customizing SaaS applications
 ● Hands-on exercise: Configuring a SaaS application and managing its user acces
 
-# Software as a Service (SAAS)
+### Introduction to Software as a Service (SAAS)
 
 Software as a Service, commonly known as SaaS, is a cloud computing service model that has become immensely popular in the  past few years.
 In this cloud computing model, software applications are hosted by third party vendor. These software applications are made available to customers over the internet. This cloud computing model is subscription-based. Its pricing structure is one where users pay a fee monthly or annually to access the software.
 
-### SAAS Providers
 
-SaaS as a cloud computing model, is such that the software is hosted on the cloud and can be  easily accessible by users from anywhere, at any time, and on any device as long as there is internet connection.  What this does is that it terminates the requirement for users to install and maintain software on their own computers, as all the maintenance and updates are handled by the service provider.
+### Benefits of saas
+
+- Lower Costs: SaaS eliminates the need for businesses to purchase and maintain their own hardware and software. This means businesses can avoid upfront costs and ongoing maintenance expenses, making SaaS a more cost-effective option.
+
+- Scalability: SaaS allows businesses to scale up or down as needed, depending on their changing requirements. This means businesses can easily add or remove users and applications as their needs evolve.
+
+- Accessibility: SaaS is accessible from anywhere with an internet connection, making it easy for remote teams or employees to access applications and collaborate in real-time.
+
+- Ease of Use: SaaS providers typically offer an intuitive user interface, making it easy for users to quickly get up and running with minimal training.
+
+- Automatic Upgrades: SaaS providers typically handle all upgrades and maintenance, ensuring that the software is always up to date and secure.
+
+- Integration: SaaS applications can often be easily integrated with other software applications, making it easier for businesses to manage their entire IT infrastructure from a single platform.
+
+- Predictable Costs: SaaS providers typically offer subscription-based pricing, which allows businesses to predict their IT costs over time.
+
+
+
+### SAAS Providers
 
 There are many SaaS providers in the market today, offering a wide range of software applications to businesses and individuals. Here are some examples of popular SaaS providers:
 
@@ -45,30 +62,18 @@ There are many SaaS providers in the market today, offering a wide range of soft
 
 - FreshBooks - offers cloud-based accounting and invoicing software for small businesses. 
 
-### Advantages of saas
-
-- Lower Costs: SaaS eliminates the need for businesses to purchase and maintain their own hardware and software. This means businesses can avoid upfront costs and ongoing maintenance expenses, making SaaS a more cost-effective option.
-
-- Scalability: SaaS allows businesses to scale up or down as needed, depending on their changing requirements. This means businesses can easily add or remove users and applications as their needs evolve.
-
-- Accessibility: SaaS is accessible from anywhere with an internet connection, making it easy for remote teams or employees to access applications and collaborate in real-time.
-
-- Ease of Use: SaaS providers typically offer an intuitive user interface, making it easy for users to quickly get up and running with minimal training.
-
-- Automatic Upgrades: SaaS providers typically handle all upgrades and maintenance, ensuring that the software is always up to date and secure.
-
-- Integration: SaaS applications can often be easily integrated with other software applications, making it easier for businesses to manage their entire IT infrastructure from a single platform.
-
-- Predictable Costs: SaaS providers typically offer subscription-based pricing, which allows businesses to predict their IT costs over time.
-
-Overall, SaaS offers many benefits that make it an attractive option for businesses looking to streamline their IT operations and reduce costs. By outsourcing software development and maintenance to a third-party provider, businesses can focus on their core operations and achieve greater efficiency and productivity.
 
 ### Managing and customizing SaaS applications:
+
 While SaaS applications are hosted and maintained by the provider, businesses still have some control 
 over how they use and customize the software. Here are some ways that businesses can manage and customize their SaaS applications:
 
+- User access: Businesses can control who has access to the software and what level of access they have
 
+- Integration: Many SaaS applications offer integration with other software tools, allowing businesses to customise their workflow
 
+- Customization: Some SaaS applications allow businesses to customize the interface and features to meet their specific need.
+- Data management: Businesses can manage their data within the SaaS application, setting up workflows and rules to automate data entry and management.
 
 ### Salesforece
 
