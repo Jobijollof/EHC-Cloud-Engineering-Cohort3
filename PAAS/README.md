@@ -45,3 +45,12 @@ Step 1. Access Elastic Beanstalk service from AWS Management Console
 - Click on next
 
 ### Configure instance traffic and scaling - optional
+![configure](./images/elastic-9.png)
+
+![configure](./images/elastic-10.png)
+
+![configure](./images/elastic-11.png)
+
+![configure](./images/elastic-12.png)
+
+### Configure updates, monitoring, and logging - optional
