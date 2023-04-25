@@ -9,7 +9,7 @@ Week 3 hands-on experience.
 In this hands-on exercise, i used Elastic Beanstalk to deploy a web application to the cloud.
 If you are following along, at the end of this lab, you will be able to deploy a web application to the cloud using Elastic Beanstalk.
 
-Step 1. Access Elastic Beanstalk service from AWS Management Console:
+### Step 1. Access Elastic Beanstalk service from AWS Management Console:
 
 - On the AWS Management Console page, select the Elastic Beanstalk service.
 
@@ -50,7 +50,7 @@ After the application is deployed successfully, copy the application’s URL tha
 
 ![log](./images/old-8.png)
 
-Step 2. Inspect the resources created:
+### Step 2. Inspect the resources created:
 
 Navigate to the EC2 console and inspect the instance that was created for you. The instance should have the same name as your application. You can administer and manage this EC2 as if you created it yourself.
 
@@ -64,21 +64,21 @@ You can also navigate to the Amazon S3 service to view the S3 buckets created fo
 
 ![old](./images/old-11.png)
 
-Step 3. Cleanup and delete resources:
+### Step 3. Cleanup and delete resources:
 
-To clean up the resources to avoid recurring charges, you must delete your AWS resources.
+To avoid recurring charges, you must delete your AWS resources.
 
-Delete application: Go to the Elastic Beankstalk's Applications dashboard. Click on the Actions button in the upper right-hand corner, and click on `terminate application` to terminate your application componenents. Ideally, terminating the application will also delete the associated environment.
+- Terminate application: Go to the Elastic Beankstalk's Applications dashboard. Click on the Actions button in the upper right-hand corner, and click on `terminate application` to terminate your application components. Ideally, terminating the application will also delete the associated environment.
 ![log](./images/old-12.png)
 
 ![log](./images/old-13.png)
 
- However, you can navigate back to EC2, S3 to confirm. Note that you can also delete the application after a while. If you try to delete the application immediately, it will not work.
+However, you can navigate back to EC2, S3 to confirm. Note that you can also delete the application after a while. If you try to delete the application immediately, it will not work.
 
 Visited S3 and the bucket was still there even after termination, so i emptied the bucket by clicking the `empty` option on S3. This emptied and automatically deleted the bucket.
 ![log](./images/old-14.png)
 
-OOps bucket is still there. 
+- OOps bucket is still there. 
 
 ![log](./images/old-15.png)
 
