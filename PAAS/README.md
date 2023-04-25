@@ -82,6 +82,29 @@ OOps bucket is still there.
 
 ![log](./images/old-15.png)
 
+- Resolution:
+
+When you use an Elastic Beanstalk application to create an S3 bucket, a policy is applied to the bucket that protects it from getting deleted accidentally. To delete the bucket, you need to delete the bucket policy first. For instructions, see Deleting the Elastic Beanstalk Amazon S3 Bucket.
+
+- Warning: If you delete the bucket, any other AWS resources or applications that depend on the bucket might stop working correctly.
+
+- Open the Amazon S3 console .
+
+- Open the Elastic Beanstalk storage bucket's page by choosing the bucket name.
+
+- Choose the Permissions tab.
+
+- Choose Bucket Policy.
+
+- Choose Delete.
+
+![log](./images/old-17.png)
+
+
+![log](./images/old-18.png)
+
+Solution was [here](https://repost.aws/community): 
+
 
 - The Ec2 instance has been terminated.
 
