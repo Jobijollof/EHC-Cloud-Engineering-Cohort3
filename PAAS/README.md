@@ -83,6 +83,14 @@ OOps bucket is still there.
 ![log](./images/old-15.png)
 
 
+- The Ec2 instance has been terminated.
+
+![log](./images/old-16.png)
+
+
+
+
+
 
 
 
