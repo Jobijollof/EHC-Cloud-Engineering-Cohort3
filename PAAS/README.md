@@ -54,7 +54,7 @@ Step 2. Inspect the resources created:
 
 Navigate to the EC2 console and inspect the instance that was created for you. The instance should have the same name as your application. You can administer and manage this EC2 as if you created it yourself.
 
-![old](./images/elastic-9.png)
+![old](./images/old-9.png)
 
 You can view the security groups (firewall rules) that was automatically created.
 
